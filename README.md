@@ -9,3 +9,8 @@ TidyDataSet.txt
 # Run the CodeBook.Rmd file which will output the codebook and the html file
 * codebook.md
 * codebook.html
+# Packages which should be imported to run the run_analysis.R script
+1. data.table
+2. datasets
+3. plyr
+4. dplyr
